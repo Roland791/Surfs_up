@@ -13,17 +13,15 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 ![June Tempertures](https://github.com/Roland791/Surfs_up/blob/main/Images/June_Temps.PNG)
 
 
--- In June we had a total count of 1700, mean of 74.9, min of 64.0 and max of 85.0
+-- In June we had a total count of Temperatures taken of 1700, with an average (mean) of 74.9, falling within the range of 64.0 and 85.0 degrees.
 
 ![December Tempertures](https://github.com/Roland791/Surfs_up/blob/main/Images/Dec_Temps.PNG)
 
--- In December we had a total count of 1517, mean of 71.0, min of 56.0 and max of 83.0
+-- In December we had a total count of Temperatures taken of 1517, with an average (mean) of 71.0, within the range 0f 56.0 and 83.0 degrees.
 
-Screen Shot 2020-09-18 at 7 16 24 PM
 
--- Standard deviation is 3.25 in June and 3.75 -- making a .5 difference in the two different seasons
+-- Standard deviation is 3.25 in June and 3.75 in December, -- making a .5 difference in the two different seasons
 
 ##Summary
-From our data we can tell what our temperatures are but since there are other attributes to the weather such as precipitation it shows that we can run additional queries to let us know whether or not people can come and visit the shop. If we are able to gain more data for the area we can run even more queries! From there we can decide how we would like to build the shop and what areas would make this a more prominent location for visitors to come.
+Based on the temperature data, it appears that the annual weather is rather consistent and in the right range to justify a presence of a surf shop. In addition to that, given the data that we currently have avaialble, by adding precipitation data into the mix through an additional query, we could identify whether there are periods where precipitation could factor into feasibility. Finally, by running a query and grouping by measurement location, you could also narrow down the best locations on the islands to set up shop.
 
-© 2021 GitHub, Inc.
